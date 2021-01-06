@@ -6,7 +6,9 @@
 ```
 使用IDE导入Mvane项目
 ```
-
+mvn clean install
+Or 
+mvn clean package
 
 ### 项目设置
 ```
